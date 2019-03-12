@@ -9,6 +9,8 @@
  * @since       3.0.0
  */
 
+namespace Kirki\Modules\Custom_Panels;
+
 /**
  * Nested panel.
  */
