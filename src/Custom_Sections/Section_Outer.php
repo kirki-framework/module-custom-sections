@@ -14,7 +14,7 @@ namespace Kirki\Module\Custom_Sections;
 /**
  * Default Section.
  */
-class Section_Default extends \WP_Customize_Section {
+class Section_Outer extends \WP_Customize_Section {
 
 	/**
 	 * The section type.
